@@ -65,7 +65,7 @@ The extension lives inside the chat page. You type a request, the model answers 
 4. **Open AstroX.** Double-click `AstroX.exe`. Create an account with just a name; the bridge starts with the app.
 5. **Start a session.** Open a supported chat (DeepSeek is recommended), start a new conversation, click **Start session** on the AstroX bar, and describe what you want to build.
 
-A step-by-step video walkthrough is available at https://youtu.be/kPKiZLZ9_Ps.
+
 
 **Supported chats:** DeepSeek, ChatGPT, Claude, Grok, Gemini, Kimi, GLM, Qwen, Arena (Direct mode only), Meta AI, Vani, Notion AI chat, MiMo AI and FeatherRBLX. The bar appears only on those sites.
 
